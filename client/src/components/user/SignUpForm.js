@@ -7,7 +7,7 @@ const SignUpForm = ({ navigate }) => {
   const [password, setPassword] = useState("");
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
-// will add validation after
+
   const handleSubmit = async (event) => {
     event.preventDefault();
 

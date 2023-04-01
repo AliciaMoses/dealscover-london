@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+
 import { ReactComponent as MusicIcon } from "../../assets/icons/mic.svg";
 import { ReactComponent as SportsIcon } from "../../assets/icons/sports_volleyball.svg";
 import { ReactComponent as DiningIcon } from "../../assets/icons/restaurant.svg";

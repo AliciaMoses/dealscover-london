@@ -1,6 +1,6 @@
 import Navbar from "../navbar/Navbar";
 
-import React, { useEffect, useState } from "react";
+
 import "./LandingPage.css";
 
 const LandingPage = () => {
